@@ -1,0 +1,12 @@
+# General Modules
+Django
+djangorestframework
+
+# Third-party Modules
+markdown
+django-filter
+drf-yasg[validation]
+Pillow
+
+# Deployment Modules
+django-cors-headers
